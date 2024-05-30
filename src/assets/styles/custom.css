@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  background-color: #282c34;
+  color: white;
+  padding: 20px 0;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.card {
+  margin-bottom: 20px;
+}
